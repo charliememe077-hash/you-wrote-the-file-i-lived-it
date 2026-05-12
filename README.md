@@ -24,6 +24,7 @@ display:block;
 margin:14px 0;
 font-size:22px;
 }
+
 blockquote{
 border-left:4px solid crimson;
 padding-left:20px;
@@ -32,20 +33,30 @@ font-style:italic;
 color:#dddddd;
 margin:40px 0;
 }
+
+img{
+width:100%;
+border-radius:20px;
+margin-bottom:30px;
+}
 </style>
 </head>
 
 <body>
-<img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
-style="width:100%; border-radius:20px; margin-bottom:30px;">
+
+<img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee">
 
 <h1>You Wrote the File. I Lived It.</h1>
 
+<blockquote>
+“Files recorded behaviour.<br>
+Bodies recorded fear.”
+</blockquote>
+
 <p>
-A lived experience archive exploring trauma,
-autism, safeguarding systems, survival,
-motherhood, fear, and the emotional reality
-behind official files.
+A lived experience archive exploring trauma, autism,
+safeguarding systems, survival, motherhood, fear,
+and the emotional reality behind official files.
 </p>
 
 <h2>Essays</h2>
