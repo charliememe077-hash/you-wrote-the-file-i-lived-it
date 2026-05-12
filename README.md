@@ -24,6 +24,14 @@ display:block;
 margin:14px 0;
 font-size:22px;
 }
+blockquote{
+border-left:4px solid crimson;
+padding-left:20px;
+font-size:26px;
+font-style:italic;
+color:#dddddd;
+margin:40px 0;
+}
 </style>
 </head>
 
