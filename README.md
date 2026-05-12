@@ -40,6 +40,7 @@ border-radius:20px;
 margin-bottom:30px;
 }
 </style>
+
 </head>
 
 <body>
@@ -54,26 +55,27 @@ Bodies recorded fear.”
 </blockquote>
 
 <p>
-A lived experience archive exploring trauma, autism,
-safeguarding systems, survival, motherhood, fear,
-and the emotional reality behind official files.
+A lived experience archive exploring trauma,
+autism, safeguarding systems, survival,
+motherhood, fear, and the emotional reality
+behind official files.
 </p>
 
 <h2>Essays</h2>
 
-<a href="distress-vs-danger.md">
+<a href="#">
 The Difference Between Distress and Danger
 </a>
 
-<a href="autism-meets-trauma.md">
+<a href="#">
 When Autism Meets Trauma
 </a>
 
-<a href="autism-and-survival-mode.md">
+<a href="#">
 Autism and Survival Mode
 </a>
 
-<a href="i-became-good-at-looking-okay.md">
+<a href="#">
 I Became Good At Looking Okay
 </a>
 
