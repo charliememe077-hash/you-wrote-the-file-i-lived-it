@@ -1,26 +1,60 @@
-# you-wrote-the-file-i-lived-it
+<!DOCTYPE html>
+<html>
+<head>
+<title>You Wrote the File. I Lived It.</title>
 
+<style>
+body{
+background:black;
+color:white;
+font-family:Arial;
+padding:40px;
+line-height:1.7;
+}
 
+h1{
+color:crimson;
+font-size:48px;
+}
 
-You Wrote the File. I Lived It.
+a{
+color:#ff4d6d;
+text-decoration:none;
+display:block;
+margin:14px 0;
+font-size:22px;
+}
+</style>
+</head>
 
-A lived experience writing and advocacy project exploring trauma, autism, safeguarding systems, domestic abuse, nervous-system survival and the gap between recorded information and human reality.
+<body>
 
-This project exists because files record behaviour, but they do not always capture fear, exhaustion, hypervigilance, attachment, survival mode or the emotional reality of being human.
+<h1>You Wrote the File. I Lived It.</h1>
 
-Topics explored
+<p>
+A lived experience archive exploring trauma,
+autism, safeguarding systems, survival,
+motherhood, fear, and the emotional reality
+behind official files.
+</p>
 
-- trauma and the nervous system
-- autism and survival mode
-- safeguarding systems
-- distress vs danger
-- parenting while traumatised
-- hypervigilance and emotional flooding
-- lived experience inside systems
-- the difference between recorded information and lived reality
+<h2>Essays</h2>
 
-This is not anti-safeguarding.
+<a href="distress-vs-danger.md">
+The Difference Between Distress and Danger
+</a>
 
-It is a call for greater humanity, reflection, nervous-system awareness and accuracy inside systems working with vulnerable people and families.
+<a href="autism-meets-trauma.md">
+When Autism Meets Trauma
+</a>
 
-“Child of the system, now a voice for the children still inside it.”
+<a href="autism-and-survival-mode.md">
+Autism and Survival Mode
+</a>
+
+<a href="i-became-good-at-looking-okay.md">
+I Became Good At Looking Okay
+</a>
+
+</body>
+</html>
